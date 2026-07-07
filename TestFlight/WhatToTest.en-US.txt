@@ -1,0 +1,5 @@
+First TestFlight build from Xcode Cloud.
+
+- Create, complete, delete habits
+- Streak + completion rate statistics
+- Blank habit name now rejected (whitespace fix)
